@@ -236,8 +236,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -2.0308, y: 0}
+  m_SizeDelta: {x: -4.0617, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &471770596
 MonoBehaviour:
@@ -261,11 +261,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 39
+    m_FontSize: 64
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 47
+    m_MaxSize: 73
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -791,8 +791,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -30.739136, y: 760.4287}
-  m_SizeDelta: {x: -354.8354, y: -1692.4525}
+  m_AnchoredPosition: {x: 94.77927, y: 636.2}
+  m_SizeDelta: {x: -634.09, y: -1823.972}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1114040582
 MonoBehaviour:
@@ -1009,7 +1009,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 2612474963479676704, guid: c1be8a8de1ced0b46b15f548d7b08b94, type: 3}
+  m_PlanePrefab: {fileID: 3678640000850061845, guid: c1be8a8de1ced0b46b15f548d7b08b94, type: 3}
   m_DetectionMode: -1
 --- !u!114 &1668240329
 MonoBehaviour:
@@ -1120,10 +1120,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_NormalColor: {r: 0.9528302, g: 0.8314792, b: 0.83255726, a: 1}
+    m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 0.75627446, g: 0.9716981, b: 0.9716981, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -1198,8 +1198,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 314, y: 76.858}
-  m_SizeDelta: {x: 76.6681, y: 50.6089}
+  m_AnchoredPosition: {x: 0.000010252, y: -146.1}
+  m_SizeDelta: {x: 169.6611, y: 76.6251}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2009677164
 GameObject:
@@ -1294,8 +1294,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -49.723797, y: 0.9899}
-  m_SizeDelta: {x: 607.7452, y: 202.345}
+  m_AnchoredPosition: {x: 0, y: 71.7}
+  m_SizeDelta: {x: 439.9866, y: 249.73}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2119509332
 MonoBehaviour:
@@ -1319,7 +1319,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 68
+    m_FontSize: 70
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 6
@@ -1377,7 +1377,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.9, y: -921.4}
+  m_AnchoredPosition: {x: -0.000024319, y: -940}
   m_SizeDelta: {x: 420.8419, y: 133.9882}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2142911075
@@ -1578,15 +1578,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1092799506968844422, guid: 28e61f9fc54495749811286809fc3a78, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.1
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1092799506968844422, guid: 28e61f9fc54495749811286809fc3a78, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.1
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1092799506968844422, guid: 28e61f9fc54495749811286809fc3a78, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.1
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 1092799506968844422, guid: 28e61f9fc54495749811286809fc3a78, type: 3}
       propertyPath: m_LocalPosition.x
